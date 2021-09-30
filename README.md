@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshkshirsagar9
+- 👋 Hi, I’m @AdityaKshirsagar
 - 👀 I’m interested in Data science and machine lerning
 - 🌱 I’m currently learning data science
 
